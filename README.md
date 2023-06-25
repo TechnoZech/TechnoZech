@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dharmeshcode" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/dharmesh.codes" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://twitter.com/DharmeshCode" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://discord.gg/dharmeshsharma" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
